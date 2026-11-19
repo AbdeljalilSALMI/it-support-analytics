@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/raw/*
+data/processed/*
+models/*
+!**/.gitkeep
+*.csv
+*.parquet
+/.pytest-tmp/
+/.pytest-tmp-*/

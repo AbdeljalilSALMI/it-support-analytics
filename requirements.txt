@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+shap
+psycopg[binary]
+streamlit
+jupyterlab
+pytest
+pyarrow
+altair
