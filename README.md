@@ -217,3 +217,6 @@ Psycopg, Streamlit, Altair, Jupyter, and pytest.
 
 For repository publishing commands and dashboard captures, see the
 [GitHub publishing checklist](reports/github_checklist.md).
+
+For the full methodology, results, and limitations, see the
+[final project report](reports/final_report.md).
